@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2C8B-458A
+
+ Directory of C:\Users\amirg\OneDrive\Desktop\Myproject
+
+05/02/2022  06:11 AM    <DIR>          .
+05/02/2022  06:11 AM    <DIR>          ..
+05/02/2022  06:08 AM               357 text1.txt
+05/02/2022  06:11 AM                 0 text2.txt
+               2 File(s)            357 bytes
+               2 Dir(s)  20,969,705,472 bytes free
